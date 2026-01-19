@@ -6,23 +6,23 @@ Mental Health AI Support App
 ![Status](https://img.shields.io/badge/Status-Deployed-success)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-A Streamlit-powered AI application designed to offer empathetic and supportive responses related to mental wellbeing.
+A Streamlit-powered AI application designed to predict likelihood of treatment to support mental wellbeing of employees.
 
 🔗 Live Demo: [https://mentalhealthai.streamlit.app/](https://mentalhealthai.streamlit.app/)
 
 🚀 Features
 
-💬 AI-driven conversational interface for mental health support
-🧠 Offers sensitive and thoughtful responses
+💬 AI-driven predictive interface for mental health support
+🧠 Offers prediction and likelihood of seeking treatment in employees
 🖥️ Simple, interactive UI powered by Streamlit
 📌 Designed to assist users in reflecting on their thoughts
 
 🧠 How It Works
 
-1. The user enters their message or feelings in the text input
+1. The user enters fill the given parameters according to themselves.
 2. The app sends the text to an AI model
-3. The model processes the input and generates a supportive reply
-4. The conversation displays in real time
+3. The model processes the input and generates a prediction.
+4. The prediction displays in real time, visualizin te likelihood of seeking treatment in the person.
 
 🛠 Tech Stack
 
